@@ -27,7 +27,7 @@
 
 **Coding**
 
-- [ ] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
+- [x] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
 
 ### Optional tasks
 
