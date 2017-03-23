@@ -11,10 +11,10 @@
 
 - [ ] Read String Questions in Interviews.
   - Using a few sentences, describe what you've learned.
-  Strings are immutable so when we add a character to a string, the string is destroyed and re-created.
-  StringBuffer class is mutable
-  The generating all permutations of a given String of size n always results in a O(n!) time
-  Usually topics of string: Reversing, substring, deletion and replacements.
+  - Strings are immutable so when we add a character to a string, the string is destroyed and re-created.
+  - StringBuffer class is mutable
+  - The generating all permutations of a given String of size n always results in a O(n!) time
+  - Usually topics of string: Reversing, substring, deletion and replacements.
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
@@ -28,12 +28,12 @@
 
   The steps are:
 
-  Pick an element, called a pivot, from the array.
-  Partitioning: reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with    values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final     position. This is called the partition operation.
-  Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with   greater values.
-  The base case of the recursion is arrays of size zero or one, which never need to be sorted.
+  - Pick an element, called a pivot, from the array.
+  - Partitioning: reorder the array so that all elements with values less than the pivot come before the pivot, while all elements with    values greater than the pivot come after it (equal values can go either way). After this partitioning, the pivot is in its final     position. This is called the partition operation.
+  - Recursively apply the above steps to the sub-array of elements with smaller values and separately to the sub-array of elements with   greater values.
+  - The base case of the recursion is arrays of size zero or one, which never need to be sorted.
 
-  The pivot selection and partitioning steps can be done in several different ways; the choice of specific implementation schemes greatly affects the algorithm's performance.
+  - The pivot selection and partitioning steps can be done in several different ways; the choice of specific implementation schemes greatly affects the algorithm's performance.
 - [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
