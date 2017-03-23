@@ -26,6 +26,7 @@
       + Count how many times each character of string apears and store it to a array
       + Sub two array by index (array1[i] - array2[i]) and sum all values we get into a variable.
       + The variable is the number character we need to delete.
+      
 **Arrays**
 
 - [x] Read Sorting Algorithms
