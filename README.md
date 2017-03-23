@@ -38,8 +38,15 @@
       + The base case of the recursion is arrays of size zero or one, which never need to be sorted.
 
       + The pivot selection and partitioning steps can be done in several different ways; the choice of specific implementation schemes greatly affects the algorithm's performance.
-- [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
+- [x] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
   - Using a few sentences, describe what you've learned.
+    - Sort is arranging elements in a list or collection in increasing or decreasing order of some property.
+    - With the sorted list / collection, the searching element is fast (binary search vs linear search)
+    - Sort classification:
+      - time complexity
+      - space complextiy or memory usage
+      - stability
+      - internal sort (all records in memory) and external short (all records in storage)
 - [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
   - Using a few sentences, describe what you've learned
 
