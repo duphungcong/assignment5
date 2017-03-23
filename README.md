@@ -27,7 +27,7 @@
 
 - [ ] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
-  Quicksort is a divide and conquer algorithm. Quicksort first divides a large array into two smaller sub-arrays: the low elements and     the high elements. Quicksort can then recursively sort the sub-arrays.
+    - Quicksort is a divide and conquer algorithm. Quicksort first divides a large array into two smaller sub-arrays: the low elements and     the high elements. Quicksort can then recursively sort the sub-arrays.
 
   The steps are:
 
