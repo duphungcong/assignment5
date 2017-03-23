@@ -17,6 +17,8 @@
     - Usually topics of string: Reversing, substring, deletion and replacements.
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
+    - Memoization is an easy method to track previously solved solutions (often implemented as a hash key value pair, as opposed to tabulation which is often based on arrays) so that they aren't recalculated when they are encountered again. It can be used in both both bottom up or top down methods
+    - Dynamic Programing: still not understand
 - [x] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - Using a few sentences, describe what you've learned.
     - Anagram is two strings which have same extract characters, same number of each characters without order matching. Anagram Problem Solution count how many characters we will delete in two string so that they can be anagram.
