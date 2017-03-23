@@ -11,6 +11,10 @@
 
 - [ ] Read String Questions in Interviews.
   - Using a few sentences, describe what you've learned.
+  Strings are immutable so when we add a character to a string, the string is destroyed and re-created.
+  StringBuffer class is mutable
+  The generating all permutations of a given String of size n always results in a O(n!) time
+  Usually topics of string: Reversing, substring, deletion and replacements.
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
