@@ -47,7 +47,7 @@
       - space complextiy or memory usage
       - stability
       - internal sort (all records in memory) and external short (all records in storage)
-- [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
+- [x] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
   - Using a few sentences, describe what you've learned
     - The sort concept:
       - Divide the unsorted list into n sublists, each containing 1 element (a list of 1 element is considered sorted).
