@@ -9,7 +9,7 @@
 
 **Strings**
 
-- [ ] Read String Questions in Interviews.
+- [x] Read String Questions in Interviews.
   - Using a few sentences, describe what you've learned.
     - Strings are immutable so when we add a character to a string, the string is destroyed and re-created.
     - StringBuffer class is mutable
@@ -17,7 +17,7 @@
     - Usually topics of string: Reversing, substring, deletion and replacements.
 - [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
   - Using a few sentences, describe what you've learned.
-- [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
+- [x] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - Using a few sentences, describe what you've learned.
     - Anagram is two strings which have same extract characters, same number of each characters without order matching. Anagram Problem Solution count how many characters we will delete in two string so that they can be anagram.
     The steps are:  
@@ -26,7 +26,7 @@
       + The variable is the number character we need to delete.
 **Arrays**
 
-- [ ] Read Sorting Algorithms
+- [x] Read Sorting Algorithms
   - Can you memorize one algorithm? What is it?
     - Quicksort is a divide and conquer algorithm. Quicksort first divides a large array into two smaller sub-arrays: the low elements and the high elements. Quicksort can then recursively sort the sub-arrays.
 
