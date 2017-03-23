@@ -19,10 +19,10 @@
   - Using a few sentences, describe what you've learned.
 - [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
   - Using a few sentences, describe what you've learned.
-  - Anagram is two strings which have same extract characters, same number of each characters without order matching. Anagram Problem Solution count how many characters we will delete in two string so that they can be anagram.
-    + Count how many times each character of string apears and store it to a array
-    + Sub two array by index (array1[i] - array2[i]) and sum all values we get into a variable.
-    + The variable is the number character we need to delete.
+    - Anagram is two strings which have same extract characters, same number of each characters without order matching. Anagram Problem Solution count how many characters we will delete in two string so that they can be anagram.
+     + Count how many times each character of string apears and store it to a array
+     + Sub two array by index (array1[i] - array2[i]) and sum all values we get into a variable.
+     + The variable is the number character we need to delete.
 **Arrays**
 
 - [ ] Read Sorting Algorithms
